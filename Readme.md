@@ -1,6 +1,6 @@
 # 🌐 Connectify Messenger
 
-![Connectify Messenger](https://res.cloudinary.com/rohitcloudinary/image/upload/v1737399728/Connectify_Messenger-AI_bbjek4.png)
+![Connectify Messenger](https://res.cloudinary.com/dhndyhqkw/image/upload/v1759102881/Screenshot_2025-09-29_051058_lzt9qq.png)
 
 **Connectify Messenger** is a powerful, feature-rich real-time messaging application designed for seamless and engaging communication. It combines state-of-the-art technologies to deliver a secure, customizable, and user-friendly experience.
 
@@ -34,7 +34,7 @@
 ## 🌍 Live Demo
 
 Experience **Connectify Messenger** in action:  
-**[Live Link](https://messaging-application-socket-io.onrender.com/)**  
+**[Live Link](https://messaging-application-v6r1.onrender.com/)**  
 
 
 
@@ -44,12 +44,12 @@ Experience **Connectify Messenger** in action:
 
 ### Desktop View
 <p align="center">
-  <img src="https://res.cloudinary.com/rohitcloudinary/image/upload/v1737400593/Screenshot_from_2025-01-19_14-02-11_dr9fo3.png" alt="Desktop View" width="70%" />
+  <img src="https://res.cloudinary.com/dhndyhqkw/image/upload/v1759102722/Screenshot_2025-09-29_050648_c0togm.png" alt="Desktop View" width="70%" />
 </p>
 
 ### Mobile View
 <p align="center">
-  <img src="https://res.cloudinary.com/rohitcloudinary/image/upload/v1737400593/Screenshot_from_2025-01-19_14-01-50_xsro4u.png" alt="Mobile View" width="40%" />
+  <img src="https://res.cloudinary.com/dhndyhqkw/image/upload/v1759102721/Screenshot_2025-09-29_050708_z9wssa.png" alt="Mobile View" width="40%" />
 </p>
 
 ---
@@ -57,4 +57,4 @@ Experience **Connectify Messenger** in action:
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
-All rights reserved © 2025 **Rohit Vishwakarma**.
+All rights reserved © 2025 **Saurav Kumar**.
